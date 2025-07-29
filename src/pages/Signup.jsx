@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 export default function Signup() {
   return (
@@ -30,7 +30,7 @@ export default function Signup() {
             <button style={{ width: '100%', padding: '10px', backgroundColor: '#0288d1', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }} type="submit">Sign Up</button>
           </form>
           <div style={{ textAlign: 'center', marginTop: '10px' }}>
-            <p>Already have an account? <a href="#">Login</a></p>
+           
           </div>
         </div>
       </div>
